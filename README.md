@@ -154,3 +154,4 @@ To keep FlipFlap short and uncomplicated, we can make modules for other formats 
 Using mixins cleanly separates our code by keeping the parsing logic away from other code needed by applications to handle the data. And we can do this all without inheritance.
 
 Feel free to ask more questions on our Slack workspace, and we will of course discuss this in class!
+new readme
